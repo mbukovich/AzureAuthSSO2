@@ -1,0 +1,2 @@
+rootProject.name = "AzureAuthSSO2"
+include ':app'
